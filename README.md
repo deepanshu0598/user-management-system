@@ -93,7 +93,8 @@ Authorization: Bearer <your-jwt-token>
 ---
 
 ## **Demo Video & Postman Collection**  
-- **Demo Video**: [Link to your video walkthrough]  
+- **Demo Video**: [Watch the Full Video Walkthrough](https://drive.google.com/file/d/1A7bvIQwXTwdbjhXmBbNOSG_i7vAxMFGv/view?usp=sharing)
+ 
 - **Postman Collection**: [Download the Postman Collection](./user-management-system.postman_collection.json)  
 
 ---
