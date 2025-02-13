@@ -94,7 +94,7 @@ Authorization: Bearer <your-jwt-token>
 
 ## **Demo Video & Postman Collection**  
 - **Demo Video**: [Link to your video walkthrough]  
-- **Postman Collection**: [Link to the Postman collection file](https://github.com/your-username/your-repo-name/postman-collection.json)  
+- **Postman Collection**: [Download the Postman Collection](./user-management-system.postman_collection.json)  
 
 ---
 
